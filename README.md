@@ -27,4 +27,4 @@ This project was created for learning purposes to understand advanced animations
 
 ---
 
-## 📂 Project Structure
+
